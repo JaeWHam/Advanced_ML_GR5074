@@ -6,3 +6,6 @@ https://github.com/JaeWHam/Advanced_ML_GR5074/blob/master/HW1/GR5074_Assignment1
 
 Project 2: Brain tumor diagnostic MRI image
 https://github.com/JaeWHam/Advanced_ML_GR5074/blob/master/HW2/GR5074_Assignment2_JaeHam.ipynb
+
+Project 3: BBC News Category Classification
+https://github.com/JaeWHam/Advanced_ML_GR5074/blob/master/HW2/GR5074_Assignment3_JaeHam.ipynb
